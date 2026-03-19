@@ -134,6 +134,21 @@ python src/benchmark.py
 
 ## Citation
 
+This code is part of the following article, please cite it if you use in your research.
+
+```bibtex
+@article{oliveira2026responsible,
+  title={Responsible AI for Sepsis Prediction: Bridging the Gap Between Machine Learning Performance and Clinical Trust},
+  author={Oliveira, Thiago Q and Carvalho, Leandro A and Sousa, Fl{\'a}vio RC and Filho, Jo{\~a}o BF and Oliveira, Khalil F and Tavares, Daniel AB},
+  journal={Journal of Clinical Medicine},
+  volume={15},
+  number={6},
+  pages={2251},
+  year={2026},
+  publisher={MDPI}
+}
+```
+
 This code was developed based on the following work; please cite it if you use this dataset or code in your research.
 
 ```bibtex
